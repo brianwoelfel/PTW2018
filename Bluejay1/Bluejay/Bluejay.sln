@@ -1,8 +1,9 @@
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BluejayWeb", "BluejayWeb\BluejayWeb.csproj", "{C5A6C5DC-2D2E-48C5-ADC7-65E0A235793F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BluejayWeb", "BluejayWeb\BluejayWeb.csproj", "{5377E28D-F524-45D4-835D-EE014F08F576}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,24 +14,21 @@ Global
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C5A6C5DC-2D2E-48C5-ADC7-65E0A235793F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C5A6C5DC-2D2E-48C5-ADC7-65E0A235793F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C5A6C5DC-2D2E-48C5-ADC7-65E0A235793F}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{C5A6C5DC-2D2E-48C5-ADC7-65E0A235793F}.Debug|x64.Build.0 = Debug|Any CPU
-		{C5A6C5DC-2D2E-48C5-ADC7-65E0A235793F}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{C5A6C5DC-2D2E-48C5-ADC7-65E0A235793F}.Debug|x86.Build.0 = Debug|Any CPU
-		{C5A6C5DC-2D2E-48C5-ADC7-65E0A235793F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C5A6C5DC-2D2E-48C5-ADC7-65E0A235793F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C5A6C5DC-2D2E-48C5-ADC7-65E0A235793F}.Release|x64.ActiveCfg = Release|Any CPU
-		{C5A6C5DC-2D2E-48C5-ADC7-65E0A235793F}.Release|x64.Build.0 = Release|Any CPU
-		{C5A6C5DC-2D2E-48C5-ADC7-65E0A235793F}.Release|x86.ActiveCfg = Release|Any CPU
-		{C5A6C5DC-2D2E-48C5-ADC7-65E0A235793F}.Release|x86.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {44825892-0D8B-4302-9066-705EE6094124}
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5377E28D-F524-45D4-835D-EE014F08F576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5377E28D-F524-45D4-835D-EE014F08F576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5377E28D-F524-45D4-835D-EE014F08F576}.Debug|x64.ActiveCfg = Debug|x64
+		{5377E28D-F524-45D4-835D-EE014F08F576}.Debug|x64.Build.0 = Debug|x64
+		{5377E28D-F524-45D4-835D-EE014F08F576}.Debug|x86.ActiveCfg = Debug|x86
+		{5377E28D-F524-45D4-835D-EE014F08F576}.Debug|x86.Build.0 = Debug|x86
+		{5377E28D-F524-45D4-835D-EE014F08F576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5377E28D-F524-45D4-835D-EE014F08F576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5377E28D-F524-45D4-835D-EE014F08F576}.Release|x64.ActiveCfg = Release|x64
+		{5377E28D-F524-45D4-835D-EE014F08F576}.Release|x64.Build.0 = Release|x64
+		{5377E28D-F524-45D4-835D-EE014F08F576}.Release|x86.ActiveCfg = Release|x86
+		{5377E28D-F524-45D4-835D-EE014F08F576}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

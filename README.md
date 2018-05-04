@@ -8,3 +8,4 @@ Source code for Philly Tech Week 2018 presentation on Building a Sortable/Filter
 * **bluejay5** C# Entity Framework backend feeds Angular frontend using client side grids
 * **bluejay6** C# Entity Framework backend feeds Angular frontend using server side grids
 
+See also [Slidedeck](PhillyTechWebMay2018_share.pdf)
